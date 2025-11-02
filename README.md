@@ -1,5 +1,5 @@
 # Credits & Resources
-This project was developed with help and reference of the following materials and tutorials:
+This project was developed for Task 5.3D with help and reference of the following materials and tutorials:
 - YouTube Tutorial: https://www.youtube.com/watch?v=a-q5y8zosWk
 - GitHub Repository: https://github.com/ncorbuk/Python-Keylogger
 
