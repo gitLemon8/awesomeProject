@@ -1,2 +1,1 @@
- Key.cmd s Key.cmd s Key.backspace  Key.backspace  Key.backspace  Key.backspace  Key.backspace  Key.backspace  Key.shift Dependencies  Key.shift Evidence Key.shift  Key.cmd  Key.left  Key.cmd b Key.cmd s Key.backspace  Key.backspace  Key.cmd z Key.cmd s Key.cmd s Key.shift  Key.backspace  Key.backspace  Key.cmd z Key.shift Dependencies  Key.shift Installem Key.backspace  Key.backspace ment Key.cmd s Key.cmd ss Key.cmd s Key.cmd ss Key.cmd cc Key.cmd c[ENTER]
- Key.shift Sc Key.backspace  Key.backspace  Key.cmd v Key.cmd  Key.shift  Key.shift  Key.left  Key.left  Key.shift Screen  Key.shift Recording Key.down  Key.cmd ss Key.cmd c Key.cmd v Key.cmd s Key.cmd s Key.cmd ss Key.cmd s Key.cmd c Key.cmd  Key.ctrl c
+
