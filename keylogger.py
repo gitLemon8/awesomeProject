@@ -47,7 +47,7 @@ class KeyboardEventLogger:
     
     # Stop Feature Using esc Key
     def on_key_release(self, key):
-        # Returning False stops the pynput listener gracefully
+        # Returning False stops the pynput listener
         if key == pynput.keyboard.Key.esc:
             return False
 
